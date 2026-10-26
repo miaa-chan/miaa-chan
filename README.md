@@ -1,16 +1,49 @@
-## Hi there 👋
+# ✦ Heya, I'm Mia :3 ✦
 
-<!--
-**miaa-chan/miaa-chan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+![Linux](https://img.shields.io/badge/Linux-enthusiast-39C5BB?style=for-the-badge&logo=linux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-a_little_bit-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Miku](https://img.shields.io/badge/Hatsune_Miku-%F0%9F%A9%B5-39C5BB?style=for-the-badge)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## ✿ About me
+
+I like messing around with Linux, making random projects, and occasionally creating things that probably shouldn't exist.
+
+## ✧ Stuff I've made
+
+| Project | Description |
+| :-- | :-- |
+| 🐾 [**Tama-chan**](https://github.com/miaa-chan/tama-chan) | A CLI pet written in Python. |
+
+*more cursed little things coming soon...* 
+
+## ♡ Things I like
+
+- 🐧 Linux & Unix stuff
+- 🪷 Nature
+- 🩵 Hatsune Miku
+
+## ⌨ Currently messing with
+
+```text
+Python  ▰▰▰▰▰▰▰▰▱▱
+Java    ▰▰▰▰▰▱▱▱▱▱
+C       ▰▰▰▱▱▱▱▱▱▱   (just a bit :p)
+```
+
+---
+
+<div align="center">
+
+```
+  ♪ ･ﾟ✧  see you around!  ✧ﾟ･ ♪
+```
+
+</div>
