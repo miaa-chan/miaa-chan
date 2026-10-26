@@ -2,10 +2,10 @@
 
 <div align="center">
 
-![Linux](https://img.shields.io/badge/Linux-enthusiast-39C5BB?style=for-the-badge&logo=linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_enthusiast-39C5BB?style=for-the-badge&logo=linux&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-a_little_bit-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Miku](https://img.shields.io/badge/Hatsune_Miku-%F0%9F%A9%B5-39C5BB?style=for-the-badge)
 
 </div>
